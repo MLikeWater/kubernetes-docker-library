@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-registry-proxy:0.4
+FROM gcr.io/google_containers/kube-registry-proxy:latest
 MAINTAINER jiangshouzhuang <jiangshouzhuang@gmail.com>
